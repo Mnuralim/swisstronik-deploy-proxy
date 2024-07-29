@@ -10,7 +10,7 @@ EVM :
 0x9902C3A98Df4b240ad5496cC26F89bAb8058f4aE
 ```
 
-Tutorial Video : [Youtube](https://www.youtube.com/@IzzyTSN)
+Tutorial Video : [Youtube](https://youtu.be/IucFidGBwo8?si=AfvMha-QyylsfUg6)
 
 ## Steps
 
